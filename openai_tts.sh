@@ -15,7 +15,7 @@ curl "${POPCLIP_OPTION_URL}" \
   -H "Content-Type: application/json" \
   -d '{
     "model": "tts-1",
-    "input": "'"${input_content//\"/\\\"}"'",
+    "input": " _'"${input_content//\"/\\\"}"'",
     "voice": "shimmer"
   }' \
   --output speech.mp3
