@@ -7,7 +7,9 @@ A PopClip extension to speak selected text using the OpenAI Text-to-Speech (TTS)
 
 1. Go to [openai_tts.sh](./openai_tts.sh)
 2. Select all the code. If you select with <kbd>Command</kbd> + <kbd>A</kbd>, you need to use the customized keyboard shortcut you've set to call PopClip.
-3. Click `Install Extension "OpenAI TTS"`.
+    <img width="957" alt="image" src="https://github.com/user-attachments/assets/46f86353-458c-415b-a3a6-c8a329ed8270" />
+
+3. Click `Install Extension "OpenAI TTS"`, which in Chinese is `安装扩展 "OpenAI TTS"`.
 4. Input the options, then click OK.
 
 ### Fill in the options
