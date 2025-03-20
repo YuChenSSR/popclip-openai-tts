@@ -40,3 +40,6 @@ You can click the loading icon to stop while speaking.
 
 AGPL-3.0
 
+---
+ 
+If this project is helpful to you, please consider giving it a Star ⭐️
